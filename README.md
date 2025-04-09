@@ -228,7 +228,13 @@ Using your Boolean equations, build a logic network in [CircuitVerse](https://ci
 
 <details>
 <summary>Your solution</summary>
-A share link to your solution goes here: <a href=".................">Link!</a>
+A share link to your solution goes here: <a href="<iframe src="https://circuitverse.org/simulator/embed/maxim-meister-bit-adder-5c6f7a87-9e28-4437-8ed6-b5a910b12329?theme=&display_title=false&clock_time=true&fullscreen=true&zoom_in_out=true" style="border-width:; border-style: ; border-color:;" name="myiframe" id="projectPreview" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="500" width="500" allowFullScreen></iframe>
+
+or try this:
+
+https://circuitverse.org/simulator/embed/maxim-meister-bit-adder-5c6f7a87-9e28-4437-8ed6-b5a910b12329
+   
+   ">Link!</a>
 </details>
 
 ---
